@@ -1,0 +1,19 @@
+"Phrases"
+{
+  "Reached RandWeapon Limit"
+  {
+	  "pt" "Chegaste ao limite de armas por ronda!"
+	  "en" "You reached the limit of weapons per round!"
+  }
+  "Won RandWeapon"
+  {
+    "#format" "{1:s}"
+	  "pt" "Ganhaste: {red}{1}"
+	  "en" "You got: {red}{1}"
+  }
+  "No Permission"
+  {
+	  "pt" "Não tens permissão para usar esse comando."
+	  "en" "You don't have permission to use that command."
+  }
+}
