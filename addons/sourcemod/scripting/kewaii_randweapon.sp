@@ -59,7 +59,7 @@ public Action OnRoundStart(Handle event, const char[] name, bool dontBroadcast)
 	for(int i = 1; i <= MaxClients; i++)
 	{
 		g_iOpenedCases[i] = 0;
-    }
+	}
 }
 
 public void OnConfigsExecuted() {
